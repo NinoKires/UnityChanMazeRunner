@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="300" height="200" src="1.png">
-  <img width="300" height="200" src="2.png">
+  <img width="400" height="200" src="1.png">
+  <img width="400" height="200" src="2.png">
 </p>
 
 # UnityChanMazeRunner
